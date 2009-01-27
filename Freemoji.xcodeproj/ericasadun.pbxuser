@@ -1,0 +1,171 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Freemoji */ = {
+		activeExec = 0;
+		executables = (
+			8EECF7820F2E8BB5007AD5D8 /* Freemoji */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = 8EECF7820F2E8BB5007AD5D8 /* Freemoji */;
+		activeSDKPreference = iphoneos2.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Freemoji */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Freemoji */,
+		);
+		codeSenseManager = 8EECF78C0F2E8BBC007AD5D8 /* Code sense */;
+		executables = (
+			8EECF7820F2E8BB5007AD5D8 /* Freemoji */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 254711455;
+			PBXWorkspaceStateSaveDate = 254711455;
+		};
+		perUserProjectItems = {
+			8EA8F1AB0F2E978600173508 /* PlistBookmark */ = 8EA8F1AB0F2E978600173508 /* PlistBookmark */;
+			8EECF8390F2E9691007AD5D8 /* PBXTextBookmark */ = 8EECF8390F2E9691007AD5D8 /* PBXTextBookmark */;
+			8EECF83B0F2E9691007AD5D8 /* PBXTextBookmark */ = 8EECF83B0F2E9691007AD5D8 /* PBXTextBookmark */;
+			8EECF83C0F2E9691007AD5D8 /* PlistBookmark */ = 8EECF83C0F2E9691007AD5D8 /* PlistBookmark */;
+		};
+		sourceControlManager = 8EECF78B0F2E8BBC007AD5D8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1758, 1344}}";
+			sepNavSelRange = "{2217, 0}";
+			sepNavVisRange = "{2145, 1261}";
+			sepNavWindowFrame = "{{289, 340}, {939, 666}}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 336}, {939, 666}}";
+		};
+	};
+	8EA8F1AB0F2E978600173508 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/ericasadun/Desktop/Freemoji/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	8EECF7820F2E8BB5007AD5D8 /* Freemoji */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Freemoji;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	8EECF78B0F2E8BBC007AD5D8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	8EECF78C0F2E8BBC007AD5D8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8EECF8390F2E9691007AD5D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 44";
+		rLen = 0;
+		rLoc = 1668;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 750;
+	};
+	8EECF83B0F2E9691007AD5D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 44";
+		rLen = 0;
+		rLoc = 1668;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 750;
+	};
+	8EECF83C0F2E9691007AD5D8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/ericasadun/Desktop/Freemoji/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}
